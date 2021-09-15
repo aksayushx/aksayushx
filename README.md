@@ -1,6 +1,4 @@
-
-
-<a href="" rel="aksayushx">![](https://raw.githubusercontent.com/akshay2211/akshay2211.github.io/master/img/banner_dark.png)</a>
+<a href="https://github.com/aksayushx" rel="aksayushx">![](https://github.com/aksayushx/aksayushx/blob/main/media/banner.png)</a>
 
 
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=aksayushx&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/aksayushx&hide_border=true)
