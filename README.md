@@ -19,3 +19,5 @@
 <a href="https://www.facebook.com/aksayushx1/"><img width="40px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-128.png"></img></a>
 <a href="https://www.linkedin.com/in/ayush-kumar-shaw-5698a719a/"><img width="40px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-256.png"></img></a>
 </div>
+![](https://komarev.com/ghpvc/?username=aksayushx)
+
