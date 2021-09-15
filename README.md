@@ -16,6 +16,6 @@
 <a href="https://twitter.com/aksayushx"><img width="40px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-512.png"></img></a>
 <a href="https://github.com/aksayushx"><img width="40px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/github-512.png"></img></a>
 <a href="https://www.instagram.com/aksayushx1/"><img width="40px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-256.png"></img></a>
-<a href="https://www.facebook.com/aksayushx1/"><img width="40px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-128.png"></img></a>
-<a href="https://www.linkedin.com/in/ayush-kumar-shaw-5698a719a/"><img width="40px" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-128.png"></img></a>
+<a href="https://www.facebook.com/aksayushx1/"><img width="40px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-128.png"></img></a>
+<a href="https://www.linkedin.com/in/ayush-kumar-shaw-5698a719a/"><img width="40px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-256.png"></img></a>
 </div>
